@@ -1,8 +1,7 @@
 <div align="center">
 
-# 🧮 Calcify  
+# 🧮 Calcify 🧮 
 
-![Stars](https://img.shields.io/github/stars/Farnaztr/Calcify?style=for-the-badge&color=red)
 ![Made With](https://img.shields.io/badge/Made%20With-C%23%20%26%20Windows%20Forms-blueviolet?style=for-the-badge)
 
 </div>
@@ -53,14 +52,14 @@ To view and run the project on your computer:
     ``` Calcify.csproj```
 
 
-4. Double-click it to open it in **Visual Studio** 🧰  
+4. Double-click it to open it in **Visual Studio** 
 or open Visual Studio → File → Open → Project/Solution → select `Calcify.csproj`
 
 5. Press **F5** or click ▶️ **Start** to run the calculator!
 
 ---
 
-## 🖼️ Screenshot
+## Screenshot
 
 <img width="734" height="304" alt="image" src="https://github.com/user-attachments/assets/091a2d3a-b5ac-4eeb-ae48-9ff1546e9479" />
  
