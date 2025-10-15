@@ -9,12 +9,6 @@
 
 ---
 
-##   Overview
-
-It provides a smooth and clean user interface for basic arithmetic operations, designed to be fast, reliable, and easy to use.  
-
----
-
 ##  Features
 
 - Simple and elegant Windows Forms interface 
