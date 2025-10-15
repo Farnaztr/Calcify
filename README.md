@@ -51,7 +51,6 @@ To view and run the project on your computer:
 
     ``` Calcify.csproj ```
 
-
 4. Double-click it to open it in **Visual Studio** 
 or open Visual Studio → File → Open → Project/Solution → select `Calcify.csproj`
 
