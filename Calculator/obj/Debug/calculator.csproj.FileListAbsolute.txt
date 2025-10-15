@@ -1,0 +1,12 @@
+D:\Programming\c#\11th programs\Calculator\Tarabi_k4\bin\Debug\Tarabi_k4.exe.config
+D:\Programming\c#\11th programs\Calculator\Tarabi_k4\obj\Debug\Tarabi_k4.exe
+D:\Programming\c#\11th programs\Calculator\Tarabi_k4\obj\Debug\Tarabi_k4.pdb
+C:\Users\Asus\Desktop\Calculator\bin\Debug\Tarabi_k4.exe.config
+C:\Users\Asus\Desktop\Calculator\obj\Debug\Tarabi_k4.exe
+C:\Users\Asus\Desktop\Calculator\obj\Debug\Tarabi_k4.pdb
+C:\Users\Asus\Desktop\Calculator\bin\Debug\Tarabi_k4.exe
+C:\Users\Asus\Desktop\Calculator\bin\Debug\Tarabi_k4.pdb
+C:\Users\Asus\Desktop\Calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Calculator\obj\Debug\Tarabi_k4.Form1.resources
+C:\Users\Asus\Desktop\Calculator\obj\Debug\Tarabi_k4.Properties.Resources.resources
+C:\Users\Asus\Desktop\Calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
