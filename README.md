@@ -11,7 +11,7 @@
 
 ##   Overview
 
--It provides a smooth and clean user interface for basic arithmetic operations, designed to be fast, reliable, and easy to use.  
+It provides a smooth and clean user interface for basic arithmetic operations, designed to be fast, reliable, and easy to use.  
 
 ---
 
