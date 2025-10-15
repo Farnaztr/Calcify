@@ -9,10 +9,9 @@
 
 ---
 
-##  Overview
+##   Overview
 
-**Calcify** is a modern calculator built using **C# Windows Forms**.  
-It provides a smooth and clean user interface for basic arithmetic operations, designed to be fast, reliable, and easy to use.  
+-It provides a smooth and clean user interface for basic arithmetic operations, designed to be fast, reliable, and easy to use.  
 
 ---
 
@@ -50,7 +49,7 @@ To view and run the project on your computer:
      ```
  3. After downloading, open the project folder and look for the file:
 
-    ``` Calcify.csproj```
+    ``` Calcify.csproj ```
 
 
 4. Double-click it to open it in **Visual Studio** 
@@ -60,11 +59,11 @@ or open Visual Studio → File → Open → Project/Solution → select `Calcify
 
 ---
 
-## Screenshot
+## -Screenshot
 
 <img width="734" height="304" alt="image" src="https://github.com/user-attachments/assets/091a2d3a-b5ac-4eeb-ae48-9ff1546e9479" />
  
 
 ## 👩‍💻 Author
 
-[GitHub Profile → Farnaztr](https://github.com/Farnaztr)
+[Farnaztr](https://github.com/Farnaztr)
