@@ -65,3 +65,6 @@ or open Visual Studio → File → Open → Project/Solution → select `Calcify
 <img width="734" height="304" alt="image" src="https://github.com/user-attachments/assets/091a2d3a-b5ac-4eeb-ae48-9ff1546e9479" />
  
 
+## 👩‍💻 Author
+
+[GitHub Profile → Farnaztr](https://github.com/Farnaztr)
